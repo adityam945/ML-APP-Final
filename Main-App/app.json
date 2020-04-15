@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Python-ML",
+    "slug": "py-withAPI",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/circle_logo.png",
+    "splash": {
+      "image": "./assets/Opening.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.adityam945.Python_ML_App"
+    },
+    "description": "ML-APP with MOCK"
+  }
+}
